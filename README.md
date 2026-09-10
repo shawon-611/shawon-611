@@ -1,4 +1,5 @@
 ## Hi there, I am MD Alauddin Shawon 👋
+Computer Science Student • Java Developer • Problem Solver • Meta Marketing Expert
 
 <!--
 **shawon-611/shawon-611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
