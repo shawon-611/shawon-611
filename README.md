@@ -27,29 +27,6 @@
 
 <h2>👨‍💻 About Me</h2>
 
-<p>
-🎓 <b>CSE Student</b> at Southeast University
-</p>
-
-<p>
-💻 Passionate about Programming & Software Development
-</p>
-
-<p>
-☕ Working with Java, C, C++ & Python
-</p>
-
-<p>
-🧩 Interested in OOP, DSA & Problem Solving
-</p>
-
-<p>
-📈 Also experienced in Digital & Social Media Marketing
-</p>
-
-<p>
-🚀 Learning, building and improving every day.
-</p>
 
 </td>
 </tr>
