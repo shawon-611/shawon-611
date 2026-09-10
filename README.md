@@ -1,5 +1,22 @@
-## Hi there, I am MD Alauddin Shawon 👋
-Computer Science Student • Java Developer • Problem Solver • Meta Marketing Expert
+## Hi, I am MD Alauddin Shawon 👋
+
+
+🎓 CSE Student at Southeast University
+
+💻 Interested in C, C++, Java & Data Structures
+
+🚀 Currently learning, building projects, and improving my problem-solving skills
+
+📈 Digital Marketing & Social Media Marketing
+
+## Skills
+- C
+- C++
+- Java
+- Data Structures
+- Git & GitHub
+- Digital Marketing
+
 
 <!--
 **shawon-611/shawon-611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
