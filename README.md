@@ -13,7 +13,7 @@
 </p>
 
 ---
-
+<p align="center">
 <tr>
 <td width="35%" align="center">
 
@@ -29,7 +29,7 @@
 
 </td>
 </tr>
-
+</p>
 
 
 <p align="center">
