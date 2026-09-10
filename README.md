@@ -13,23 +13,6 @@
 </p>
 
 ---
-<p align="center">
-<tr>
-<td width="35%" align="center">
-
-<img src="https://raw.githubusercontent.com/shawon-611/shawon-611/main/assets/profile.jpg"
-     width="280"
-     style="border-radius: 20px;">
-
-</td>
-
-<td width="65%">
-
-
-
-</td>
-</tr>
-</p>
 
 
 <p align="center">
