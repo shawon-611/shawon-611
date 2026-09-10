@@ -10,6 +10,23 @@
 
 ---
 
+<p align="center">
+  <a href="https://github.com/shawon-611">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/CSE-Student-36BCF7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-💡-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Digital%20Marketing-📈-green?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <b>💻 Code • 🧠 Learn • 🚀 Build • 📈 Grow</b>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,git,github,vscode,idea" />
+</p>
+
 ## 👨‍💻 About Me
 
 🎓 I am a **Computer Science & Engineering student at Southeast University**.
