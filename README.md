@@ -42,7 +42,7 @@
 
 ## 📂 Featured Projects
 
-* 🏦 **Banking Management System** — Java OOP Project
+* 🏦 **Hospital Management System** — Java OOP Project
 * 💻 **C/C++ Programming Projects**
 * 🧩 **Data Structures & Algorithms**
 * 🚀 **University Projects & Assignments**
