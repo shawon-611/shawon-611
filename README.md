@@ -16,7 +16,7 @@
 
 💻 I am currently learning **C, C++, Java, Python, Object-Oriented Programming and Data Structures & Algorithms**.
 
-🧠 I enjoy **problem solving, programming and learning new technologies**.
+🧠 I enjoy ** problem-solving, programming, and learning new technologies**.
 
 🚀 I am focused on building projects and continuously improving my technical skills.
 
@@ -42,16 +42,10 @@
 
 ### 📊 Digital Marketing
 
-* Digital Marketing
 * Social Media Marketing
-* Facebook Ads / Meta Ads
-* Instagram Advertising
-* Lead Generation
+* Meta Ads
 * Audience Targeting
 * Retargeting
-* Campaign Optimization
-* Facebook Pixel & Conversion Tracking
-* Canva
 
 ---
 
@@ -68,7 +62,7 @@
 
 ## 📂 Featured Projects
 
-### 🏦 Banking Management System
+### 🏦 Hospital Management System
 
 A Java-based **Object-Oriented Programming project** demonstrating core OOP concepts.
 
@@ -85,7 +79,7 @@ Projects involving:
 
 ### 💻 C / C++ Projects
 
-Programming practice, university assignments and problem-solving projects using C and C++.
+Programming practice, university assignments, and problem-solving projects using C and C++.
 
 ### 🧩 Data Structures & Algorithms
 
