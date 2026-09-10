@@ -25,7 +25,6 @@
 
 <td width="65%">
 
-<h2>👨‍💻 About Me</h2>
 
 
 </td>
