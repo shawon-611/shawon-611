@@ -22,10 +22,6 @@
 </p>
 
 <p align="center">
-  <b>💻 Code • 🧠 Learn • 🚀 Build • 📈 Grow</b>
-</p>
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,git,github,vscode,idea" />
 </p>
 
