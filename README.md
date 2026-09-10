@@ -11,12 +11,10 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/shawon-611">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/CSE-Student-36BCF7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-💡-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Digital%20Marketing-📈-green?style=for-the-badge" />
+  <b>💻 CSE Student</b> &nbsp; • &nbsp;
+  <b>☕ Java & C++</b> &nbsp; • &nbsp;
+  <b>🧩 Problem Solving</b> &nbsp; • &nbsp;
+  <b>📈 Digital Marketing</b>
 </p>
 
 <p align="center">
