@@ -13,7 +13,47 @@
 </p>
 
 ---
+<table>
+<tr>
+<td width="35%" align="center">
 
+<img src="https://raw.githubusercontent.com/shawon-611/shawon-611/main/assets/profile.jpg"
+     width="280"
+     style="border-radius: 20px;">
+
+</td>
+
+<td width="65%">
+
+<h2>👨‍💻 About Me</h2>
+
+<p>
+🎓 <b>CSE Student</b> at Southeast University
+</p>
+
+<p>
+💻 Passionate about Programming & Software Development
+</p>
+
+<p>
+☕ Working with Java, C, C++ & Python
+</p>
+
+<p>
+🧩 Interested in OOP, DSA & Problem Solving
+</p>
+
+<p>
+📈 Also experienced in Digital & Social Media Marketing
+</p>
+
+<p>
+🚀 Learning, building and improving every day.
+</p>
+
+</td>
+</tr>
+</table>
 
 
 <p align="center">
